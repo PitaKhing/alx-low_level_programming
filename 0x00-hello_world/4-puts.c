@@ -1,13 +1,14 @@
 #include <stdio.h>
 
 /**
- * * main - prints out a string via puts
- * * Description: Program that prints out the string s followed by a new line
- * * Return: int 0 when done and no errors
+ * * main - print the string in the put function
+ * *
+ * * Description: using the main function
+ * * this program prints "Programming is like building a multilingual puzzle
+ * * Return: 0
  * */
-
 int main(void)
 {
-		puts("\"Programming is like building a multilingual puzzle");
+		printf("with proper grammar, but the outcome is a piece of art,\n");
 			return (0);
 }
